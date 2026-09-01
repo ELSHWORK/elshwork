@@ -30,7 +30,15 @@ ELSHWORK is being developed as an environment where developers can:
 - communicate and collaborate inside one ecosystem.
 
 ---
+## ELSHWORK Ecosystem
 
+<p align="center">
+  <img src="assets/ecosystem-overview.png" alt="ELSHWORK Ecosystem Overview" width="100%">
+</p>
+
+ELSHWORK combines repositories, collaboration, research, reproducibility,
+verification, security, Developer Identity, organizations, packages and
+Marketplace into one connected developer ecosystem.
 ## Core idea
 
 Most developer platforms can show what a person published.
