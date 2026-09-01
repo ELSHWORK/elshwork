@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/elshwork-hero.png" alt="ELSHWORK — Developer Ecosystem" width="100%">
+</p>
 # ELSHWORK
 
 **ELSHWORK — Developer Ecosystem for code, research, collaboration and verified professional reputation.**
