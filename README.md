@@ -78,6 +78,9 @@ This concept is being developed through:
 A research result should not be treated as verified simply because someone marked it as verified.
 
 ELSHWORK is designed around the idea that every important result should be connected to its evidence.
+<p align="center">
+  <img src="assets/reproducibility-flow.png" alt="ELSHWORK Reproducibility Flow" width="100%">
+</p>
 
 A reproducibility workflow may include:
 
